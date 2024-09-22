@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS2 Utility App</string>
+    <string name="CS2_Utility_Guides">CS2 Utility Guides</string>
+    <string name="mirage_clickable_image">Mirage Clickable Image</string>
+    <string name="dust2_clickable_image">Dust2 Clickable Image</string>
+    <string name="mirageCT_clickable_image">Mirage Clickable Image</string>
+    <string name="mirageJungle_clickable_image">Mirage Clickable Image</string>
+
+
+
+</resources>
