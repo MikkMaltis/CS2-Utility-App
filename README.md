@@ -15,3 +15,6 @@ CS2-Utility-App
   Technologies i use:
     I already started this project in Android Studio with Kotlin, but i could actually reconsider it & make application with React-Native.
     At first i only plan to do it for Android, because IOS has monthly or yearly payment to even publish apps.
+
+  Time:
+  I believe I should be able to make it in 160 hours.
