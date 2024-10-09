@@ -20,3 +20,7 @@ CS2-Utility-App
   Time:
   
   I believe I should be able to make it in 160 hours.
+
+  Figma:
+
+  https://www.figma.com/design/Jwnyh5kYOmB5GKwjjMy0YY/CS2-Utility-Guides?node-id=0-1&node-type=canvas&t=u5KNQxvrZodr8ujk-0
