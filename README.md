@@ -13,5 +13,5 @@ CS2-Utility-App
   5. When the video starts it stops randomly on important frames, when there is some more difficult utility lineup & also there is audio behind it (me talking          about lineup).
 
   Technologies i use:
-    I already started this project in Android Studio with Kotlin, but i could actually reconsider it & make this application with React-Native.
+    I already started this project in Android Studio with Kotlin, but i could actually reconsider it & make application with React-Native.
     At first i only plan to do it for Android, because IOS has monthly or yearly payment to even publish apps.
